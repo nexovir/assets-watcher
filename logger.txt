@@ -1,0 +1,41 @@
+file logger.txt has been cleaned. -> 23/10/2024, 07:49:58
+You Start Watching for ameliorate.com,beautyexpert.com,dermstore.com,espaskincare.com,exantediet.com,eyeko.com,glossybox.com,growgorgeous.com,hqhair.com,illamasqua.com,mioskincare.com,mankind.co.uk,mybag.com,myvitamins.com,powerman.co.uk,skinstore.com,thehut.com , subfinder_time : 24 hours , dnsbrute_time: 1000 hours , remove : "0" from columns  -> 23/10/2024, 07:49:58
+Starting Subfinder for 'ameliorate.com' Please Wait ... -> 23/10/2024, 07:49:58
+[+] found 16 subdomains from subfinder -> 23/10/2024, 07:50:06
+Starting Subfinder for 'beautyexpert.com' Please Wait ... -> 23/10/2024, 07:50:06
+[+] found 17 subdomains from subfinder -> 23/10/2024, 07:50:45
+Starting Subfinder for 'dermstore.com' Please Wait ... -> 23/10/2024, 07:50:45
+[+] found 61 subdomains from subfinder -> 23/10/2024, 07:51:16
+Starting Subfinder for 'espaskincare.com' Please Wait ... -> 23/10/2024, 07:51:16
+[+] found 19 subdomains from subfinder -> 23/10/2024, 07:52:04
+Starting Subfinder for 'exantediet.com' Please Wait ... -> 23/10/2024, 07:52:04
+[+] found 24 subdomains from subfinder -> 23/10/2024, 07:52:31
+Starting Subfinder for 'eyeko.com' Please Wait ... -> 23/10/2024, 07:52:31
+[+] found 9 subdomains from subfinder -> 23/10/2024, 07:52:42
+Starting Subfinder for 'glossybox.com' Please Wait ... -> 23/10/2024, 07:52:42
+[+] found 29 subdomains from subfinder -> 23/10/2024, 07:53:21
+Starting Subfinder for 'growgorgeous.com' Please Wait ... -> 23/10/2024, 07:53:21
+[+] found 22 subdomains from subfinder -> 23/10/2024, 07:54:07
+Starting Subfinder for 'hqhair.com' Please Wait ... -> 23/10/2024, 07:54:07
+[+] found 24 subdomains from subfinder -> 23/10/2024, 07:54:34
+Starting Subfinder for 'illamasqua.com' Please Wait ... -> 23/10/2024, 07:54:34
+[+] found 25 subdomains from subfinder -> 23/10/2024, 07:54:59
+Starting Subfinder for 'mioskincare.com' Please Wait ... -> 23/10/2024, 07:54:59
+[+] found 20 subdomains from subfinder -> 23/10/2024, 07:55:26
+Starting Subfinder for 'mankind.co.uk' Please Wait ... -> 23/10/2024, 07:55:26
+[+] found 20 subdomains from subfinder -> 23/10/2024, 07:55:56
+Found New Subdomain : ['f.e.mankind.co.uk', 'e.mankind.co.uk', 'gslb.mankind.co.uk', 'help.mankind.co.uk', 'elysium-fsa.gslb.mankind.co.uk', 'ebm.e.mankind.co.uk'] -> 10/23/2024, 07:55:56 -> 23/10/2024, 07:55:56
+Starting Subfinder for 'mybag.com' Please Wait ... -> 23/10/2024, 07:55:56
+[+] found 24 subdomains from subfinder -> 23/10/2024, 07:56:26
+Starting Subfinder for 'myvitamins.com' Please Wait ... -> 23/10/2024, 07:56:26
+[+] found 15 subdomains from subfinder -> 23/10/2024, 07:56:47
+Starting Subfinder for 'powerman.co.uk' Please Wait ... -> 23/10/2024, 07:56:47
+[+] found 13 subdomains from subfinder -> 23/10/2024, 07:57:21
+Found New Subdomain : ['gslb.powerman.co.uk', 'e.powerman.co.uk'] -> 10/23/2024, 07:57:21 -> 23/10/2024, 07:57:21
+Starting Subfinder for 'skinstore.com' Please Wait ... -> 23/10/2024, 07:57:21
+[+] found 29 subdomains from subfinder -> 23/10/2024, 07:57:55
+Found New Subdomain : ['skinstore.com', 'www.qa.skinstore.com', 'www.dev.skinstore.com'] -> 10/23/2024, 07:57:55 -> 23/10/2024, 07:57:55
+Starting Subfinder for 'thehut.com' Please Wait ... -> 23/10/2024, 07:57:55
+[+] found 32 subdomains from subfinder -> 23/10/2024, 07:58:27
+Found New Subdomain : ['elysium-fsa.gslb.thehut.com', 'e.thehut.com', 'iphone.xml.thehut.com', 'a.ns.e.thehut.com', 'c.ns.e.thehut.com', 'f.e.thehut.com', 'ebm.e.thehut.com', 'b.ns.e.thehut.com', 'gslb.thehut.com'] -> 10/23/2024, 07:58:27 -> 23/10/2024, 07:58:27
+Subfinder Was Successfully done at -> 10/23/2024, 07:58:27 -> 23/10/2024, 07:58:27
